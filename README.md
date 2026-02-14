@@ -75,14 +75,6 @@ KPIs were designed to align directly with business objectives.
 
 ---
 
-
-## Dashboard Screenshots (Click to enlarge) :
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Home%20.png">
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Home%20.png">
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Customers.png">
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Model.png">
-
----
 ## 🔎 Project Insights
 
 * **Engagement & Conversion Decline:** KPI trend analysis revealed a consistent drop in engagement and conversion rates compared to previous periods, indicating inefficiencies in campaign targeting and audience alignment.
@@ -111,7 +103,13 @@ The interactive dashboard includes:
 Built to support data-driven strategic decisions at management level.
 
 ---
+## Dashboard Screenshots (Click to enlarge) :
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Home%20.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Customers.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Customers.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Model.png">
 
+---
 ## 💡 Business Recommendations
 
 Based on deep analytical findings and KPI trend evaluation, the following strategic actions are recommended:
