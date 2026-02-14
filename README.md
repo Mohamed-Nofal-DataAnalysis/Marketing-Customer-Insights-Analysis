@@ -105,7 +105,7 @@ Built to support data-driven strategic decisions at management level.
 ---
 ## Dashboard Screenshots (Click to enlarge) :
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Home%20.png">
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Customers.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Marketing.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Customers.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Marketing-Customer-Insights-Analysis/blob/main/Model.png">
 
