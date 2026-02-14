@@ -108,17 +108,12 @@ Built to support data-driven strategic decisions at management level.
 
 Based on deep analytical findings and KPI trend evaluation, the following strategic actions are recommended:
 ### Increase Conversion Rates:
-#### Boost Reach:
-Turn 840 happy customers into promoters to fix the 48% traffic drop and replace dying long-form content with short-form videos.
-#### Maximize ROI:
-Shift budget to high-conversion products (15.46%)
+Boost Reach : Turn 840 happy customers into promoters to fix the 48% traffic drop and replace dying long-form content with short-form videos.
+Maximize ROI : Shift budget to high-conversion products (15.46%)
 ### Enhance Customer Engagement:
-#### Content Revitalize:
-Replace failing long-form content with Short-form Video and prioritize Social Media to reverse the 57% view collapse.
-
+Content Revitalize : Replace failing long-form content with Short-form Video and prioritize Social Media to reverse the 57% view collapse.
 ### Improve Customer Feedback Scores:
-#### Boost Quality:
-Audit low-rated markets like Switzerland (3.49) and resolve issues for 1-2 star reviewers to stop negative word-of-mouth.
+Boost Quality : Audit low-rated markets like Switzerland (3.49) and resolve issues for 1-2 star reviewers to stop negative word-of-mouth.
 
 
 ---
